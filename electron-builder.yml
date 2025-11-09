@@ -1,0 +1,8 @@
+appId: su.rustix.woa.launcher
+productName: World of Axe
+files:
+  - src/**
+directories:
+  output: release
+win:
+  target: nsis
